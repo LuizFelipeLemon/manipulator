@@ -1,0 +1,2 @@
+panda_arm_description
+-DCATKIN_DEVEL_PREFIX=/home/luiz/manipulator_ws/devel -DCMAKE_INSTALL_PREFIX=/home/luiz/manipulator_ws/install -G Unix Makefiles
